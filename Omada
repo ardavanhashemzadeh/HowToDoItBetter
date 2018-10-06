@@ -1,0 +1,3 @@
+1) The EAPs should continue to operate with existing configuration if a controller goes down. Working config should persist reboots
+2) The "Cloud" functionality currently seems no more than a proxy. A usefull low hanging friut would be configuration storage.
+3) Security should be hardened to allow for secure true cloud (controller not in local network, remote provisioning) operation.
